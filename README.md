@@ -22,7 +22,7 @@ demo.show()
 demo.output()
 ```
 
-* The below picture is an identicon of "Hello" generating by the above method.
+* The picture below is an identicon of "Hello" generating by the above method.
 
 ![image][Hello]
 [Hello]: https://raw.github.com/icgw/identicons/master/Hello.png "Hello"

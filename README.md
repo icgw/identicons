@@ -21,5 +21,8 @@ demo.show()
 # Output the icon (PNG) to the current derectory. filename is id.png.
 demo.output()
 ```
+
+* The below picture is an identicon of "Hello" generating by the above method.
+
 ![image][Hello]
 [Hello]: https://raw.github.com/icgw/identicons/master/Hello.png "Hello"

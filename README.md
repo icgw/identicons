@@ -22,4 +22,4 @@ demo.show()
 demo.output()
 ```
 ![image][Hello]
-[Hello]: https://github.com/icgw/identicons/Hello.png
+[Hello]: https://raw.github.com/icgw/identicons/master/Hello.png "Hello"

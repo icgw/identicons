@@ -1,6 +1,6 @@
 # Github-Like Identicon Generator #
 
-## Eviroment ##
+## Requirement ##
 * Python 3.x
 * PIL
 
